@@ -8,6 +8,6 @@ Console.Write(" 6"); Thread.Sleep(1000);
 Console.Write(" 7"); Thread.Sleep(1000);
 Console.Write(" 8"); Thread.Sleep(1000);
 Console.Write(" 9"); Thread.Sleep(1000);
-Console.Write(" 10");
+Console.Write(" 10" + Environment.NewLine );
 Thread.Sleep(1000);
-Console.WriteLine(" you got it!");
+Console.WriteLine("You got it!");
